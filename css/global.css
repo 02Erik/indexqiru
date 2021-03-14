@@ -1,0 +1,127 @@
+header {
+    background-color: #0000;
+    width: 63.3rem;
+    height: 8.1rem;
+    position: absolute;
+}
+
+img#logoheader {
+    position: absolute;
+    width: 10rem;
+    height: 2rem;
+    left: 2.8rem;
+    top: 2rem;
+}
+
+img#wsheader {
+    position: absolute;
+    height: 1.3rem;
+    width: 1.3rem;
+    left: 59rem;
+    top: 1.8rem;
+}
+
+p#pheader {
+
+    position: absolute;
+left: 4rem;
+top: 2.3rem;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 23px;
+text-align: center;
+letter-spacing: 0.305em;
+color: #171619;
+}
+
+button#buttonheader {
+    font-family: PT Sans;
+    position: absolute;
+    top: 1rem;
+    left: 51rem;
+    height: 3rem;
+    width: 10rem;
+    background: #D18B43;
+    box-shadow: -2px 2px 3px 1px rgba(0, 0, 0, 0.15);
+    border-radius: 30.5px;
+    font-weight: bold;
+    color: white;
+}
+
+hr#barraheader {
+    position: absolute;
+    top: 5rem;
+    width: 63.3rem;
+    height: 0%;
+    color: #3a3838;
+    border: 1px solid #DADADA;
+}
+
+
+nav {
+    position: absolute;
+    top: 5.6rem;
+    left: 18rem;
+    height: 3rem;
+    width: 29rem;
+}  
+
+a {
+font-family: PT Sans;
+font-style: normal;
+color: #525050;
+font-weight: bold;
+display: inline-block;
+text-align: center;
+font-size: 16px;
+text-decoration: none;
+padding: 1rem;
+}
+
+a:hover {
+    color: #D18B43;
+    background-color:transparent;
+}
+
+footer {
+    position: absolute;
+    width: 64rem;
+    height: 4rem;
+    background: rgb(78, 69, 69);
+    color: white;
+    top: 45rem;
+    left: 0rem;
+}
+p#pfooter {
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 9px;
+    text-align: center;
+    letter-spacing: 0.305em;
+    color: white;
+    top: 1rem;
+    left: 2rem;
+}
+img#logofooter {
+    position: absolute;
+    height: 1.3rem;
+    width: 14.3rem;
+    left: -1rem;
+    top: 0.8rem;
+}
+p#derechos {
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+    top: 1rem;
+    left: 23rem;
+    text-align: center;
+}
